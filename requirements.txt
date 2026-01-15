@@ -8,7 +8,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pytz==2019.3
 PyYAML==5.4
-requests==2.22.0
+requests==2.32.4
 rsa==4.7
 six==1.13.0
 update-checker==0.16
