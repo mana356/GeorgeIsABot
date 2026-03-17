@@ -4,7 +4,7 @@ chardet==3.0.4
 idna==2.8
 praw==6.4.0
 prawcore==1.0.1
-pyasn1==0.4.8
+pyasn1==0.6.3
 pyasn1-modules==0.2.7
 pytz==2019.3
 PyYAML==5.4
